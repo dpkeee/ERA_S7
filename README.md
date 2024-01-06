@@ -1,1 +1,3 @@
-ERA SESSION 7 CODE 1: The Setup
+ERA SESSION 7 
+
+ 1: The Code Setup
