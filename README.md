@@ -2,5 +2,8 @@ ERA SESSION 7
 
  1: The Code Setup
 
-Heavy model with more than 6M parameters
-Model is overfitting
+Results:
+Parameters: 6.3M
+Best Training Accuracy: 99.99
+Best Test Accuracy: 99.24
+
